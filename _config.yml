@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Qisheng Wu"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Senior Research Associate at School of Engineering, brown University"
   location         : "Providence, RI, USA"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=hPt-nOsAAAAJ&hl=en"
-  email            :
+  email            : "qisheng_wu (at) brown.edu"
   researchgate     : "https://www.researchgate.net/profile/Qisheng-Wu-2"
   uri              :
   bitbucket        :
@@ -95,17 +95,17 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  # github           : "academicpages"
+  github           : "wuqishengcms"
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  # impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
   orcid            : "https://orcid.org/0000-0001-9123-1864"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  # stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
   # twitter          : "replacethistwitterhandle"
