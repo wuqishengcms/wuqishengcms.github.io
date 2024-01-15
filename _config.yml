@@ -86,7 +86,7 @@ author:
   location         : "Providence, RI, USA"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=hPt-nOsAAAAJ&hl=en"
-  email            : "qisheng_wu (at) brown.edu"
+  email            : "qisheng_wu@brown.edu"
   researchgate     : "https://www.researchgate.net/profile/Qisheng-Wu-2"
   uri              :
   bitbucket        :
@@ -95,7 +95,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "wuqishengcms"
+  # github           : "wuqishengcms"
   google_plus      :
   keybase          :
   instagram        :
